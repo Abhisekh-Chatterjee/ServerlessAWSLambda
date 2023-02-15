@@ -1,0 +1,4 @@
+com/test/aws/lambda/AwsLambdaDeployApplication.class
+com/test/aws/lambda/service/SubscriberService.class
+com/test/aws/lambda/model/Subscriber.class
+com/test/aws/lambda/functions/Subscribers.class
